@@ -26,7 +26,7 @@ Download and install Unity:
 Download or clone the project to your local machine:
 
 ```
-git something here
+git clone https://github.com/cofifield/JacksonTheMighty.git
 ```
 
 Launch Unity, open the project.
