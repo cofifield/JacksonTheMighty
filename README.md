@@ -7,6 +7,7 @@ As well as the bulit in physics2D engine. This project was purely for fun and VE
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+If you just want to play the game, there are precompiled executables for both Windows & Mac OS.
 
 ### Prerequisites
 
@@ -19,9 +20,8 @@ Unity 5.6
 
 Download and install Unity:
 
-```
 * [Unity 5.6](https://store.unity.com)
-```
+
 
 Download or clone the project to your local machine:
 
